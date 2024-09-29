@@ -1,8 +1,8 @@
-﻿**E-Commerce Web Application**
+﻿# **E-Commerce Web Application**
 
 This is a full-stack e-commerce web application that allows users to browse items, add them to a cart, and proceed to payment. The frontend is built using **ReactJS** and **Bootstrap** for responsiveness, while the backend utilizes **NodeJS** and **ExpressJS** for API creation, state management, and routing. **Redux** is used for managing global state, and custom databases store item details and user selections.
 
-**Features**
+## **Features**
 
 - **Browse Items**: Users can view a list of available items.
 - **Add to Cart**: Items can be added to the cart, and the state is updated dynamically using **Redux**.
@@ -12,13 +12,13 @@ This is a full-stack e-commerce web application that allows users to browse item
 - **State Management**: **Redux** is used to manage the global state across components.
 - **Routing**: **React Router** handles the navigation between different pages.
 
-**Project Preview**
+## **Project Preview**
 
 ![](Aspose.Words.13e9e66d-15b3-4276-9d54-9e96e6867625.001.png)
 
 ![](Aspose.Words.13e9e66d-15b3-4276-9d54-9e96e6867625.002.png)
 
-**Tech Stack**
+## **Tech Stack**
 
 **Frontend**
 
@@ -42,11 +42,11 @@ This is a full-stack e-commerce web application that allows users to browse item
 
 
 
-**Project Structure**
+## **Project Structure**
 
 ![](Aspose.Words.13e9e66d-15b3-4276-9d54-9e96e6867625.003.png)
 
-**Usage**
+## **Usage**
 
 1. Open the app in the browser:
 
@@ -57,7 +57,7 @@ This is a full-stack e-commerce web application that allows users to browse item
 1. View selected items by navigating to the cart page.
 1. Proceed to the payment page, where selected items and total cost will be displayed.
 
-**Future Enhancements**
+## **Future Enhancements**
 
 - Implement user authentication (e.g., using Firebase).
 - Add more payment gateways.
